@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+  <item android:id="@+id/share_title"
+          android:title="@string/share_title" />
+  <!-- <item android:id="@+id/setting"
+          android:title="@string/setting" />-->
+  <item android:id="@+id/refresh_title"
+          android:title="@string/refresh_title" />
+  <item android:id="@+id/exit_title"
+          android:title="@string/exit_title" />
+</menu>
