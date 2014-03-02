@@ -1,4 +1,4 @@
-BitcoinityView
+BitcoinityBrowser
 ==============
 
 Is a realy simple Browser App for http://bitcoinity.org/markets
