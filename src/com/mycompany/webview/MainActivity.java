@@ -36,7 +36,7 @@ public class MainActivity extends Activity
     final Activity activity = this; 
 	ProgressBar progressBar;
 	WebView webview; 
-	String url = "http://bitcoinity.org/markets/btce/USD";
+	String url = "https://bitcoinity.org/markets/btce/USD";
 	private long lastPressedTime;
 	private static final int PERIOD = 2000;
 	
