@@ -3,7 +3,7 @@ BitcoinityBrowser
 
 Is a realy simple Browser App for http://bitcoinity.org/markets
 
-	- No Statusbar
+	- No Statusbar 
 	- Landscape Mode
 	- Turn Screen NO Off
 	- Side reload
@@ -13,7 +13,6 @@ Is a realy simple Browser App for http://bitcoinity.org/markets
     
 In Future:
 	Start values(currency,market) coming soon
-
 
 Source and Infos:
 https://github.com/junglist79/BitcoinityBrowser/wiki
