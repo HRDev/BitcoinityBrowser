@@ -8,6 +8,7 @@ Is a realy simple Browser App for http://bitcoinity.org/markets
 	- Turn Screen NO Off
 	- Side reload
 	- Share Sidelink with Friends
+	- Multilingual German/English
 	- OpenSource and Free
 	- min. 4,8"/10,2cm Display (optimized for Samsung Galaxy S3 and Tablets)
     
