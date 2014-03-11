@@ -15,5 +15,5 @@ Is a realy simple Browser App for http://bitcoinity.org/markets
 In Future:
    * start values(currency,market) coming soon
 
-Source and Infos:
+Infos and apk Download:
 https://github.com/junglist79/BitcoinityBrowser/wiki
