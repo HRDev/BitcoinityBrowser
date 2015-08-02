@@ -5,7 +5,7 @@ Is a realy simple Browser App for http://bitcoinity.org/markets
 
 * no statusbar 
 * Landscape mode
-* turn screen NO off
+* screen turn NO off
 * side reload
 * share sidelink with friends
 * multilingual german/english
